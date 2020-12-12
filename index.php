@@ -50,7 +50,7 @@ $p = filter_input(INPUT_GET, 'p', FILTER_VALIDATE_INT);
         <div class="h6">
             <div class="mb-3">Let <var class="a">a</var> &ge; 1 and <var class="b">b</var> > 1 be constants, let f(n) be a function, and let T(n) be a function over the positive numbers defined by the recurrence<br/>
                 <span class="my-3 d-block">T(n) = <var class="a">a</var>T(n/<var class="b">b</var>) + f(n)</span>
-                where<br/>
+                where
                 <ul class="list-unstyled ml-5">
                     <li><var class="a">a</var> &ge; 1,</li>
                     <li><var class="b">b</var> > 1, and</li>
@@ -80,7 +80,7 @@ $p = filter_input(INPUT_GET, 'p', FILTER_VALIDATE_INT);
         <div class="h6">
             <div class="mb-3">Let <var class="a">a</var> > 0 and <var class="b">b</var> > 0 be constants, let f(n) be a function, and let T(n) be a function over the positive numbers defined by the recurrence<br/>
                 <span class="my-3 d-block">T(n) = <var class="a">a</var>T(n - <var class="b">b</var>) + f(n)</span>
-                where<br/>
+                where
                 <ul class="list-unstyled ml-5">
                     <li><var class="a">a</var> > 0,</li>
                     <li><var class="b">b</var> > 0, and</li>
