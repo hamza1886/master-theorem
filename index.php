@@ -10,10 +10,10 @@ $p = filter_input(INPUT_GET, 'p', FILTER_VALIDATE_INT);
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="Master theorem provides an asymptotic analysis for recurrence relations that occur in the analysis of many divide and conquer algorithms.">
+    <meta name="description" content="Learn to solve recurrence relations and find asymptotic complexity using master theorem.">
     <meta name="author" content="Hamza Rashid">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    <title>Master Theorem</title>
+    <title>Solve Recurrence Relation using Master Theorem</title>
     <style>
         .a {
             color: #dc3545;
@@ -33,7 +33,7 @@ $p = filter_input(INPUT_GET, 'p', FILTER_VALIDATE_INT);
     </style>
 </head>
 <body class="container">
-<div class="h2 border-bottom my-3 pb-3">Master Theorem</div>
+<div class="h2 border-bottom my-3 pb-3">Solve Recurrence Relation using Master Theorem</div>
 <p class="text-justify">Master theorem provides an asymptotic analysis (using Big O notation) for recurrence relations that occur in the analysis of many divide and conquer algorithms.
     The approach was first presented by Jon Bentley, Dorothea Haken, and James B. Saxe in 1980, where it was described as a "unifying method" for solving such recurrences.
     The name "master theorem" was popularized by the widely used algorithms textbook Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein.</p>
