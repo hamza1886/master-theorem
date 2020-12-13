@@ -1,6 +1,6 @@
 # Solve Recurrence Relation using Master Theorem
 
-Learn to solve recurrence relations and find asymptotic complexity using master theorem. See online [demo](http://drunkdeveloper.com/app/master-theorem).
+Learn to solve recurrence relations and find asymptotic complexity of decreasing and dividing functions using master theorem. See online [demo](http://drunkdeveloper.com/app/master-theorem).
 
 ## Master Theorem
 

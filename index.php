@@ -10,7 +10,7 @@ $p = filter_input(INPUT_GET, 'p', FILTER_VALIDATE_INT);
 <head>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
-    <meta name="description" content="Learn to solve recurrence relations and find asymptotic complexity using master theorem.">
+    <meta name="description" content="Learn to solve recurrence relations and find asymptotic complexity of decreasing and dividing functions using master theorem.">
     <meta name="author" content="Hamza Rashid">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <title>Solve Recurrence Relation using Master Theorem</title>
@@ -34,7 +34,7 @@ $p = filter_input(INPUT_GET, 'p', FILTER_VALIDATE_INT);
 </head>
 <body class="container">
 <div class="h2 border-bottom my-3 pb-3">Solve Recurrence Relation using Master Theorem</div>
-<p>Learn to solve recurrence relations and find asymptotic complexity using master theorem.</p>
+<p>Learn to solve recurrence relations and find asymptotic complexity of decreasing and dividing functions using master theorem.</p>
 
 <div class="h3">Master Theorem</div>
 <p class="text-justify">Master theorem provides an asymptotic analysis (using Big O notation) for recurrence relations that occur in the analysis of many divide and conquer algorithms.
