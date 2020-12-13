@@ -34,6 +34,9 @@ $p = filter_input(INPUT_GET, 'p', FILTER_VALIDATE_INT);
 </head>
 <body class="container">
 <div class="h2 border-bottom my-3 pb-3">Solve Recurrence Relation using Master Theorem</div>
+<p>Learn to solve recurrence relations and find asymptotic complexity using master theorem.</p>
+
+<div class="h3">Master Theorem</div>
 <p class="text-justify">Master theorem provides an asymptotic analysis (using Big O notation) for recurrence relations that occur in the analysis of many divide and conquer algorithms.
     The approach was first presented by Jon Bentley, Dorothea Haken, and James B. Saxe in 1980, where it was described as a "unifying method" for solving such recurrences.
     The name "master theorem" was popularized by the widely used algorithms textbook Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein.</p>
